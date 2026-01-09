@@ -57,7 +57,7 @@ const WEDDING_CONFIG = {
     {
       src: "assets/QR01.jpg",
       title: "NGO NGOC HAN",
-      info: "Xin trân thành cảm ơn",
+      info: "Xin chân thành cảm ơn",
     },
   ]
 };
